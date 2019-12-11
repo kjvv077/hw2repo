@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 a6df8417290f8d73a522a52624064487e9076de8 Andrew Benson <adbenson@cmu.edu> 1454485102 -0500	branch: Created from master
+a6df8417290f8d73a522a52624064487e9076de8 af5b611206fe270800c78b1e1faff8c0016f3d51 Andrew Benson <adbenson@cmu.edu> 1454485199 -0500	commit: add fib function, first try
+af5b611206fe270800c78b1e1faff8c0016f3d51 a9a80417d485367af5b8bf9b923f7c07ee3562c8 Andrew Benson <adbenson@cmu.edu> 1454485432 -0500	commit: fix bug in fib function

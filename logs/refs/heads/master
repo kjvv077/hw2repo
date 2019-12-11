@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 7a9a67b8d881b657140c0710adfb8b33182d638c Andrew Benson <adbenson@cmu.edu> 1454485051 -0500	commit (initial): initial commit
+7a9a67b8d881b657140c0710adfb8b33182d638c a6df8417290f8d73a522a52624064487e9076de8 Andrew Benson <adbenson@cmu.edu> 1454485097 -0500	commit: add program.c
+a6df8417290f8d73a522a52624064487e9076de8 af5b611206fe270800c78b1e1faff8c0016f3d51 Andrew Benson <adbenson@cmu.edu> 1454485281 -0500	merge develop: Fast-forward
+af5b611206fe270800c78b1e1faff8c0016f3d51 a7ab6552fde96ac6821a00897c38950390afd2f8 Andrew Benson <adbenson@cmu.edu> 1454485390 -0500	commit: change fib function to sum function
